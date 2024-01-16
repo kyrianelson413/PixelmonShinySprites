@@ -1,3 +1,9 @@
+# Current Pixelmon Pack
+assets/
+
+# Current Pixelmon Pack Output
+pokemon/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

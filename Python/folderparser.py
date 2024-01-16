@@ -1,8 +1,8 @@
 import os
 import csv
 
-rootdir = 'C:/Users/Kyria/Desktop/Pixelmon Pack Revisions/Pixelmon_Pack_Revisions_1.20.2_9.2.6/Pixelmon-1.20.2-9.2.6-universal/assets/pixelmon/textures/pokemon'
-filepath = 'C:/Users/Kyria/Desktop/Pixelmon Pack Revisions/toplevelskins.txt'
+rootdir = 'assets/pixelmon/textures/pokemon'
+filepath = 'csv.skins.csv'
 
 def ifNotInFileAddToFile(name):
     with open(filepath, 'rt') as f:
